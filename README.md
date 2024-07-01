@@ -10,9 +10,9 @@ Currently I study fullstack in GoIT school (goit.global)
 - Responsive/Adaptive web design
 - GIT
 - JavaScript
+- TypeScript
 - React
 - REST API
-- Node.js
 
 📫 How to reach me:
 
