@@ -1,16 +1,14 @@
-😉 Hi, I’m Anton Buhaichuk - a full stack developer
-
-Currently I study fullstack in GoIT school (goit.global)
+😉 Hi, I’m Anton Buhaichuk
 
 ▶️ The stack for now: 
 
 - Graphic Design
+- Google Sheets, Tablue, Flourish, Datawrapper
 - Inforgaphics
 - HTML5/CSS3
 - Responsive/Adaptive web design
 - GIT
 - JavaScript
-- TypeScript
 - React
 - REST API
 
