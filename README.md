@@ -4,7 +4,8 @@
 
 - Graphic Design
 - Google Sheets, Tablue, Flourish, Datawrapper
-- Inforgaphics
+- SQL (DBeaver, BigQuery)
+- Data Scraping
 - HTML5/CSS3
 - Responsive/Adaptive web design
 - GIT
